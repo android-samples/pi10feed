@@ -5,4 +5,13 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"/>
 
+        <item
+        android:id="@+id/action_settings1"
+        android:orderInCategory="100"
+        android:title="aaaa"/>
+        <item
+        android:id="@+id/action_settings2"
+        android:orderInCategory="100"
+        android:title="bbbb"/>
+        
 </menu>
